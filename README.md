@@ -1,0 +1,2 @@
+# Magazine Purchase Predictor
+
